@@ -8,7 +8,7 @@ Here are some ideas to get you started:-->
 
 - 🔭 I’m currently working on power electronics 💪
   
-- 🌱 I’m currently learning Python, HTML5, CSS3, git, GitHub and GitLab
+- 🌱 I’m currently learning Python, HTML5, CSS3, PHP, C#, SQL, git, GitHub and GitLab
     - I have some knowledge of C and C++ languages 🤓
        
 - 🎯 My goal is to develop projects where electronics and programming work together, bringing together the best of both universes
